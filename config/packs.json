@@ -1,0 +1,73 @@
+{
+  "pack_format": 8,
+  "author": "x256x",
+  "license": "CC0",
+  "default_root_pack": {
+    "skill": "tom_bowie_3x3",
+    "offset_x": 0,
+    "offset_z": 0,
+    "offset_y": 0
+  },
+  "skills": [
+    {
+      "id": "tom_bowie_3x3",
+      "display_name": "トム・ボウイ 3x3",
+      "width": 3,
+      "depth": 3,
+      "skill_height": 3,
+      "y_base": -60,
+      "y_max": 320,
+      "offsets": [
+        [0, 0],
+        [1, 0],
+        [2, 0],
+        [0, 1],
+        [1, 1],
+        [2, 1],
+        [0, 2],
+        [1, 2],
+        [2, 2]
+      ]
+    },
+    {
+      "id": "11x11",
+      "display_name": "11x11",
+      "width": 11,
+      "depth": 11,
+      "skill_height": 11,
+      "y_base": -58,
+      "y_max": 320,
+      "offsets": [
+        [0, 0],
+        [1, 0],
+        [2, 0],
+        [0, 1],
+        [0, 2],
+        [1, 1],
+        [5, 0],
+        [0, 5],
+        [5, 5]
+      ]
+    },
+    {
+      "id": "eternal_vice_15x13",
+      "display_name": "エターナル・ヴァイス 15x13",
+      "width": 15,
+      "depth": 15,
+      "skill_height": 13,
+      "y_base": -60,
+      "y_max": 320,
+      "offsets": [
+        [0, 0],
+        [1, 0],
+        [2, 0],
+        [0, 1],
+        [0, 2],
+        [1, 1],
+        [7, 0],
+        [0, 7],
+        [7, 7]
+      ]
+    }
+  ]
+}
